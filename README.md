@@ -12,7 +12,7 @@ Requirements
 • Keras (2.1.4 and up)
 • Tensorflow (1.5.0 and up)
 Usage
-The file Generate_sonnet.py loads the Keras model trained in Model.ipynb and automatically chooses a random seed text and generates characters (average sonnet length) that will print out to your console. To use it simply navigate to the directory where the python file is located and run the following command.
+The file the Keras model trained in Model.ipynb and automatically chooses a random seed text and generates characters (average sonnet length) that will print out to your console. To use it simply navigate to the directory where the python file is located and run the following command.
 A newly generated sonnet will then print out to your console. You may get a warning message from TensorFlow about CPU instructions but you can ignore that.
 Colab Environment
 To activate the environment:
